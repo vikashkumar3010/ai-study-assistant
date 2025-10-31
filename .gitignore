@@ -1,0 +1,21 @@
+# Python virtual environment
+backend/.venv/
+
+# Cache and temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables (contains your API key)
+*.env
+
+# Streamlit cache
+frontend/.streamlit/
+
+# VSCode / IDE settings
+.vscode/
+.idea/
+
+# Logs
+*.log
